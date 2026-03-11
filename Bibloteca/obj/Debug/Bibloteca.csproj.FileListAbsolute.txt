@@ -1,0 +1,9 @@
+C:\Users\miche\source\repos\Mascotas\Bibloteca\Bibloteca\bin\Debug\Bibloteca.exe.config
+C:\Users\miche\source\repos\Mascotas\Bibloteca\Bibloteca\bin\Debug\Bibloteca.exe
+C:\Users\miche\source\repos\Mascotas\Bibloteca\Bibloteca\bin\Debug\Bibloteca.pdb
+C:\Users\miche\source\repos\Mascotas\Bibloteca\Bibloteca\obj\Debug\Bibloteca.csproj.AssemblyReference.cache
+C:\Users\miche\source\repos\Mascotas\Bibloteca\Bibloteca\obj\Debug\Bibloteca.Properties.Resources.resources
+C:\Users\miche\source\repos\Mascotas\Bibloteca\Bibloteca\obj\Debug\Bibloteca.csproj.GenerateResource.cache
+C:\Users\miche\source\repos\Mascotas\Bibloteca\Bibloteca\obj\Debug\Bibloteca.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\Mascotas\Bibloteca\Bibloteca\obj\Debug\Bibloteca.exe
+C:\Users\miche\source\repos\Mascotas\Bibloteca\Bibloteca\obj\Debug\Bibloteca.pdb

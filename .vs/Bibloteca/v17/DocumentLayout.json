@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C461194-43D1-4CB3-B702-62F2997B7062}|CapaLibros\\CapaLibros.csproj|C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\capalibros\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C461194-43D1-4CB3-B702-62F2997B7062}|CapaLibros\\CapaLibros.csproj|solutionrelative:capalibros\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2B63BF-967A-469F-8469-8BA126A5E2CA}|Capa Presentacion\\Capa Presentacion.csproj|C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\capa presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A2B63BF-967A-469F-8469-8BA126A5E2CA}|Capa Presentacion\\Capa Presentacion.csproj|solutionrelative:capa presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452563A1-EC01-4C7C-9F83-D6D490E24C12}|CapaDatos\\CapaDatos.csproj|C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\capadatos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{452563A1-EC01-4C7C-9F83-D6D490E24C12}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452563A1-EC01-4C7C-9F83-D6D490E24C12}|CapaDatos\\CapaDatos.csproj|c:\\users\\miche\\source\\repos\\mascotas\\bibloteca\\capadatos\\cd libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452563A1-EC01-4C7C-9F83-D6D490E24C12}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91928E65-881D-455F-9EA6-C611A3FC94A5}|Bibloteca\\Bibloteca.csproj|C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\bibloteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91928E65-881D-455F-9EA6-C611A3FC94A5}|Bibloteca\\Bibloteca.csproj|solutionrelative:bibloteca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2B63BF-967A-469F-8469-8BA126A5E2CA}|Capa Presentacion\\Capa Presentacion.csproj|c:\\users\\miche\\source\\repos\\mascotas\\bibloteca\\capa presentacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2B63BF-967A-469F-8469-8BA126A5E2CA}|Capa Presentacion\\Capa Presentacion.csproj|solutionrelative:capa presentacion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452563A1-EC01-4C7C-9F83-D6D490E24C12}|CapaDatos\\CapaDatos.csproj|C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452563A1-EC01-4C7C-9F83-D6D490E24C12}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T14:58:59.602Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\Capa Presentacion\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Capa Presentacion\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\Capa Presentacion\\Form1.Designer.cs",
+              "RelativeToolTip": "Capa Presentacion\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T15:30:20.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CD Libros.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\CapaDatos\\CD Libros.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD Libros.cs",
+              "ToolTip": "C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\CapaDatos\\CD Libros.cs",
+              "RelativeToolTip": "CapaDatos\\CD Libros.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAuwF0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T14:58:08.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\Capa Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Capa Presentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\Capa Presentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa Presentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T14:54:01.989Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\CapaLibros\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaLibros\\Form1.cs",
+              "ToolTip": "C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\CapaLibros\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaLibros\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T14:52:34.745Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\CapaDatos\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Form1.cs",
+              "ToolTip": "C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\CapaDatos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaDatos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T14:45:36.228Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\Bibloteca\\Form1.cs",
+              "RelativeDocumentMoniker": "Bibloteca\\Form1.cs",
+              "ToolTip": "C:\\Users\\miche\\source\\repos\\Mascotas\\Bibloteca\\Bibloteca\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Bibloteca\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T14:42:35.892Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
