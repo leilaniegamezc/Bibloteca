@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Capa_Presentacion.Properties
+namespace CapaPresentacion.Properties
 {
 
 

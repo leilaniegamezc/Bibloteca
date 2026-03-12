@@ -1,15 +1,8 @@
 ﻿using CapaLibros;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Capa_Presentacion
+namespace CapaPresentacion
 {
     public partial class FormListarLibros : Form
     {
@@ -28,41 +21,52 @@ namespace Capa_Presentacion
         /// </summary>
         public void Mostrar() => dlistado.DataSource = CLLibro.Listar();
 
+        /// <summary>
+        /// Metodo para buscar clientes por nombre
+        /// </summary>
+        public void BuscarNombre() => dlistado.DataSource = CLLibro.BuscarNombre(NombreTXT.Text);
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        
+        private void BuscarClick(object sender, EventArgs e)
         {
-
+            if (NombreRBTN.Checked) BuscarNombre();
+            else MessageBox.Show(
+                "Seleccione un criterio de busqueda.",
+                "Sistema de Ventas",
+                MessageBoxButtons.OK,
+                MessageBoxIcon.Error
+                );
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
+        #region ???
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
         }
+        #endregion
 
-        private void BuscarClick(object sender, EventArgs e)
+        private void NuevoBTN_Click(object sender, EventArgs e)
         {
-
+            new FormRegistrarLibro() { Insert = true, Edit = false }.Show();
+            Hide();
         }
 
-        private void radioButton1_Click(object sender, EventArgs e)
+        private void EditarBTN_Click(object sender, EventArgs e)
         {
+            FormRegistrarLibro form = new FormRegistrarLibro() { Insert = false, Edit = true };
+            form.NombreTXT.Text = dlistado.CurrentRow.Cells["Nombre_libro"].Value.ToString();
+            form.AutorTXT.Text = dlistado.CurrentRow.Cells["idEditor"].Value.ToString();
+            form.IDLibroTXT.Text = dlistado.CurrentRow.Cells["idLibro"].Value.ToString();
 
+            string estado;
+            try { estado = dlistado.CurrentRow.Cells["estado"].Value.ToString(); }
+            catch { estado = "INACTIVO"; }
+
+            if (estado.ToUpper().Equals("ACTIVO")) form.ActivoRBTN.Checked = true;
+            else form.InactivoRBTN.Checked = true;
+
+            form.Show();
+            Hide();
         }
-
-        private void radioButton1_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-
     }
 }

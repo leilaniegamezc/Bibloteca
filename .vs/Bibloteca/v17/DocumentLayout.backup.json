@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\Tareas\\5-to Cuatrimestre\\BD2\\Bibloteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91928E65-881D-455F-9EA6-C611A3FC94A5}|Bibloteca\\Bibloteca.csproj|c:\\users\\dell\\documents\\tareas\\5-to cuatrimestre\\bd2\\bibloteca\\bibloteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91928E65-881D-455F-9EA6-C611A3FC94A5}|Bibloteca\\Bibloteca.csproj|solutionrelative:bibloteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A2B63BF-967A-469F-8469-8BA126A5E2CA}|Capa Presentacion\\Capa Presentacion.csproj|c:\\users\\dell\\documents\\tareas\\5-to cuatrimestre\\bd2\\bibloteca\\capa presentacion\\formlistarlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2B63BF-967A-469F-8469-8BA126A5E2CA}|Capa Presentacion\\Capa Presentacion.csproj|solutionrelative:capa presentacion\\formlistarlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A2B63BF-967A-469F-8469-8BA126A5E2CA}|Capa Presentacion\\Capa Presentacion.csproj|c:\\users\\dell\\documents\\tareas\\5-to cuatrimestre\\bd2\\bibloteca\\capa presentacion\\formregistrarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A2B63BF-967A-469F-8469-8BA126A5E2CA}|Capa Presentacion\\Capa Presentacion.csproj|solutionrelative:capa presentacion\\formregistrarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A2B63BF-967A-469F-8469-8BA126A5E2CA}|Capa Presentacion\\Capa Presentacion.csproj|c:\\users\\dell\\documents\\tareas\\5-to cuatrimestre\\bd2\\bibloteca\\capa presentacion\\formregistrarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0A2B63BF-967A-469F-8469-8BA126A5E2CA}|Capa Presentacion\\Capa Presentacion.csproj|solutionrelative:capa presentacion\\formregistrarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{452563A1-EC01-4C7C-9F83-D6D490E24C12}|CapaDatos\\CapaDatos.csproj|c:\\users\\dell\\documents\\tareas\\5-to cuatrimestre\\bd2\\bibloteca\\capadatos\\cd libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{452563A1-EC01-4C7C-9F83-D6D490E24C12}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C461194-43D1-4CB3-B702-62F2997B7062}|CapaLibros\\CapaLibros.csproj|c:\\users\\dell\\documents\\tareas\\5-to cuatrimestre\\bd2\\bibloteca\\capalibros\\cllibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C461194-43D1-4CB3-B702-62F2997B7062}|CapaLibros\\CapaLibros.csproj|solutionrelative:capalibros\\cllibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C461194-43D1-4CB3-B702-62F2997B7062}|CapaLibros\\CapaLibros.csproj|c:\\users\\dell\\documents\\tareas\\5-to cuatrimestre\\bd2\\bibloteca\\capalibros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C461194-43D1-4CB3-B702-62F2997B7062}|CapaLibros\\CapaLibros.csproj|solutionrelative:capalibros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A2B63BF-967A-469F-8469-8BA126A5E2CA}|Capa Presentacion\\Capa Presentacion.csproj|c:\\users\\dell\\documents\\tareas\\5-to cuatrimestre\\bd2\\bibloteca\\capa presentacion\\formlistarlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A2B63BF-967A-469F-8469-8BA126A5E2CA}|Capa Presentacion\\Capa Presentacion.csproj|solutionrelative:capa presentacion\\formlistarlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,83 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CD Libros.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\5-to Cuatrimestre\\BD2\\Bibloteca\\CapaDatos\\CD Libros.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\CD Libros.cs",
-              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\5-to Cuatrimestre\\BD2\\Bibloteca\\CapaDatos\\CD Libros.cs",
-              "RelativeToolTip": "CapaDatos\\CD Libros.cs",
-              "ViewState": "AgIAAJsAAAAAAAAAAAAAAL0AAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T14:33:02.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CLLibro.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\5-to Cuatrimestre\\BD2\\Bibloteca\\CapaLibros\\CLLibro.cs",
-              "RelativeDocumentMoniker": "CapaLibros\\CLLibro.cs",
-              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\5-to Cuatrimestre\\BD2\\Bibloteca\\CapaLibros\\CLLibro.cs",
-              "RelativeToolTip": "CapaLibros\\CLLibro.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAiwEQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T14:32:30.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\5-to Cuatrimestre\\BD2\\Bibloteca\\Bibloteca\\Program.cs",
-              "RelativeDocumentMoniker": "Bibloteca\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\5-to Cuatrimestre\\BD2\\Bibloteca\\Bibloteca\\Program.cs",
-              "RelativeToolTip": "Bibloteca\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Title": "FormListarLibros.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\5-to Cuatrimestre\\BD2\\Bibloteca\\Capa Presentacion\\FormListarLibros.cs",
+              "RelativeDocumentMoniker": "Capa Presentacion\\FormListarLibros.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\5-to Cuatrimestre\\BD2\\Bibloteca\\Capa Presentacion\\FormListarLibros.cs",
+              "RelativeToolTip": "Capa Presentacion\\FormListarLibros.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T14:32:14.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\5-to Cuatrimestre\\BD2\\Bibloteca\\CapaLibros\\Program.cs",
-              "RelativeDocumentMoniker": "CapaLibros\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\5-to Cuatrimestre\\BD2\\Bibloteca\\CapaLibros\\Program.cs",
-              "RelativeToolTip": "CapaLibros\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T14:32:01.562Z",
+              "WhenOpened": "2026-03-12T14:58:15.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormRegistrarLibro.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\5-to Cuatrimestre\\BD2\\Bibloteca\\Capa Presentacion\\FormRegistrarLibro.cs",
-              "RelativeDocumentMoniker": "Capa Presentacion\\FormRegistrarLibro.cs",
-              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\5-to Cuatrimestre\\BD2\\Bibloteca\\Capa Presentacion\\FormRegistrarLibro.cs",
-              "RelativeToolTip": "Capa Presentacion\\FormRegistrarLibro.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAswDMAAAAoAAAAAAAAAA==",
+              "Title": "FormListarLibros.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\5-to Cuatrimestre\\BD2\\Bibloteca\\Capa Presentacion\\FormListarLibros.cs",
+              "RelativeDocumentMoniker": "Capa Presentacion\\FormListarLibros.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\5-to Cuatrimestre\\BD2\\Bibloteca\\Capa Presentacion\\FormListarLibros.cs [Design]",
+              "RelativeToolTip": "Capa Presentacion\\FormListarLibros.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T14:22:39.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormRegistrarLibro.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Tareas\\5-to Cuatrimestre\\BD2\\Bibloteca\\Capa Presentacion\\FormRegistrarLibro.cs",
-              "RelativeDocumentMoniker": "Capa Presentacion\\FormRegistrarLibro.cs",
-              "ToolTip": "C:\\Users\\DELL\\Documents\\Tareas\\5-to Cuatrimestre\\BD2\\Bibloteca\\Capa Presentacion\\FormRegistrarLibro.cs [Design]",
-              "RelativeToolTip": "Capa Presentacion\\FormRegistrarLibro.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T14:22:35.911Z",
+              "WhenOpened": "2026-03-12T14:58:13.865Z",
               "EditorCaption": " [Design]"
             }
           ]

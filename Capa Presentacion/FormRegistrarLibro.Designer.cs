@@ -180,16 +180,16 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label NombreLBL;
-        private System.Windows.Forms.TextBox NombreTXT;
         private System.Windows.Forms.Label AutorLBL;
-        private System.Windows.Forms.TextBox AutorTXT;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button GuardarBtn;
         private System.Windows.Forms.Button CancelarBTN;
-        private System.Windows.Forms.RadioButton ActivoRBTN;
-        private System.Windows.Forms.RadioButton InactivoRBTN;
         private System.Windows.Forms.Label EstadoLBL;
-        private System.Windows.Forms.TextBox IDLibroTXT;
+        public System.Windows.Forms.TextBox NombreTXT;
+        public System.Windows.Forms.TextBox AutorTXT;
+        public System.Windows.Forms.RadioButton ActivoRBTN;
+        public System.Windows.Forms.RadioButton InactivoRBTN;
+        public System.Windows.Forms.TextBox IDLibroTXT;
     }
 }
 
