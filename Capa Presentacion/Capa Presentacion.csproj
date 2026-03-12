@@ -46,16 +46,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="FormRegistrarLibro.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="FormRegistrarLibro.Designer.cs">
+      <DependentUpon>FormRegistrarLibro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormListarLibros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormListarLibros.Designer.cs">
+      <DependentUpon>FormListarLibros.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="FormRegistrarLibro.resx">
+      <DependentUpon>FormRegistrarLibro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormListarLibros.resx">
+      <DependentUpon>FormListarLibros.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -78,6 +87,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
+      <Project>{452563a1-ec01-4c7c-9f83-d6d490e24c12}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaLibros\CapaLibros.csproj">
+      <Project>{3c461194-43d1-4cb3-b702-62f2997b7062}</Project>
+      <Name>CapaLibros</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

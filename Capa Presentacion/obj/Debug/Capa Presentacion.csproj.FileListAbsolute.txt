@@ -1,0 +1,18 @@
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Capa Presentacion\obj\Debug\CapaLibros.FormRegistrarLibro.resources
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Capa Presentacion\obj\Debug\Capa_Presentacion.FormListarLibros.resources
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Capa Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Capa Presentacion\obj\Debug\Capa Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Capa Presentacion\bin\Debug\Capa Presentacion.exe.config
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Capa Presentacion\bin\Debug\Capa Presentacion.exe
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Capa Presentacion\bin\Debug\Capa Presentacion.pdb
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Capa Presentacion\bin\Debug\CapaDatos.exe
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Capa Presentacion\bin\Debug\CapaLibros.exe
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Capa Presentacion\bin\Debug\CapaDatos.pdb
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Capa Presentacion\bin\Debug\CapaDatos.exe.config
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Capa Presentacion\bin\Debug\CapaLibros.pdb
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Capa Presentacion\bin\Debug\CapaLibros.exe.config
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Capa Presentacion\obj\Debug\Capa Pre.6EE772B1.Up2Date
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Capa Presentacion\obj\Debug\Capa Presentacion.exe
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Capa Presentacion\obj\Debug\Capa Presentacion.pdb

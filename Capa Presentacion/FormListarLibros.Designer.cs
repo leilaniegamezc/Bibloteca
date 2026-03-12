@@ -1,6 +1,6 @@
 ﻿namespace Capa_Presentacion
 {
-    partial class Form1
+    partial class FormListarLibros
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -33,12 +33,12 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.dlistado = new System.Windows.Forms.DataGridView();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dlistado)).BeginInit();
             this.SuspendLayout();
             // 
             // BuscarBTN
@@ -90,13 +90,13 @@
             this.label1.Text = "Incio Bibloteca";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
-            // dataGridView1
+            // dlistado
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(24, 147);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(764, 190);
-            this.dataGridView1.TabIndex = 0;
+            this.dlistado.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dlistado.Location = new System.Drawing.Point(24, 147);
+            this.dlistado.Name = "dlistado";
+            this.dlistado.Size = new System.Drawing.Size(764, 190);
+            this.dlistado.TabIndex = 0;
             // 
             // radioButton1
             // 
@@ -122,7 +122,7 @@
             this.radioButton2.Text = "Inactivo";
             this.radioButton2.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // FormListarLibros
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -130,14 +130,14 @@
             this.Controls.Add(this.radioButton2);
             this.Controls.Add(this.radioButton1);
             this.Controls.Add(this.panel1);
-            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.dlistado);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "FormListarLibros";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Load += new System.EventHandler(this.FormListarLibros_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dlistado)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -150,7 +150,7 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView dlistado;
         private System.Windows.Forms.RadioButton radioButton1;
         private System.Windows.Forms.RadioButton radioButton2;
         private System.ComponentModel.BackgroundWorker backgroundWorker1;

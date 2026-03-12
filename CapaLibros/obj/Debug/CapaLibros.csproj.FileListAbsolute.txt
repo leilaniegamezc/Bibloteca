@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\CapaLibros\bin\Debug\CapaLibros.exe.config
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\CapaLibros\bin\Debug\CapaLibros.exe
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\CapaLibros\bin\Debug\CapaLibros.pdb
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\CapaLibros\bin\Debug\CapaDatos.exe
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\CapaLibros\bin\Debug\CapaDatos.pdb
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\CapaLibros\bin\Debug\CapaDatos.exe.config
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\CapaLibros\obj\Debug\CapaLibros.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\CapaLibros\obj\Debug\CapaLibros.Properties.Resources.resources
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\CapaLibros\obj\Debug\CapaLibros.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\CapaLibros\obj\Debug\CapaLibros.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\CapaLibros\obj\Debug\CapaLibros.csproj.Up2Date
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\CapaLibros\obj\Debug\CapaLibros.exe
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\CapaLibros\obj\Debug\CapaLibros.pdb

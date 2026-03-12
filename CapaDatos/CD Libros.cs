@@ -9,7 +9,7 @@ using System.Security.Cryptography.X509Certificates;
 
 namespace CapaDatos
 {
-   public class CD_Libros
+    public class CDLibros
     {
         public int Idcliente { get; set; }
         public string Nombre { get; set; }
@@ -47,7 +47,12 @@ namespace CapaDatos
             return result;
 
         }
-        public string Guardar(CD_Libros cli)
+        protected void CloseConIfOpen(ref SqlConnection con)
+        {
+            if (con.State == ConnectionState.Open) con.Close();
+        }
+
+        public string Guardar(CDLibros cli)
         {
             string result = "";
             SqlConnection conexion = new SqlConnection();
@@ -78,7 +83,7 @@ namespace CapaDatos
             }
             return result;
         }
-        public string Editar(CD_Libros cli)
+        public string Editar(CDLibros cli)
         {
             string result = "";
             SqlConnection conexion = new SqlConnection();
@@ -113,7 +118,7 @@ namespace CapaDatos
             }
             return result;
         }
-        public string Eliminar(CD_Libros cli)
+        public string Eliminar(CDLibros cli)
         {
             string result = "";
             SqlConnection conexion = new SqlConnection();
@@ -142,7 +147,7 @@ namespace CapaDatos
             }
             return result;
         }
-        public DataTable BuscarDni(CD_Libros cli)
+        public DataTable BuscarDni(CDLibros cli)
         {
             DataTable result = new DataTable("cliente");
             SqlConnection conexion = new SqlConnection();
@@ -172,7 +177,35 @@ namespace CapaDatos
             }
             return result;
         }
-    }
 
+
+        public DataTable BuscarNombre(CDLibros cli)
+        {
+            DataTable result = new DataTable("Bibloteca");
+            SqlConnection con = new SqlConnection();
+
+            try
+            {
+                con.ConnectionString = Conexion.Conn;
+                SqlCommand cmd = new SqlCommand("spbuscar_libro_nombre", con)
+                {
+                    CommandType = CommandType.StoredProcedure
+                };
+                cmd.Parameters.AddWithValue($"@{nameof(Nombre).ToLower()}", cli.Buscar);
+
+                SqlDataAdapter sqlDat = new SqlDataAdapter(cmd);
+                sqlDat.Fill(result);
+            }
+            catch (Exception ex)
+            {
+                result = null;
+                throw ex;
+            }
+            finally { CloseConIfOpen(ref con); }
+
+            return result;
+        }
+
+    }
 }
 

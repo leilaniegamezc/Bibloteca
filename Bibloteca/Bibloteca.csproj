@@ -103,5 +103,19 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Capa Presentacion\Capa Presentacion.csproj">
+      <Project>{0a2b63bf-967a-469f-8469-8ba126a5e2ca}</Project>
+      <Name>Capa Presentacion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
+      <Project>{452563a1-ec01-4c7c-9f83-d6d490e24c12}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaLibros\CapaLibros.csproj">
+      <Project>{3c461194-43d1-4cb3-b702-62f2997b7062}</Project>
+      <Name>CapaLibros</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

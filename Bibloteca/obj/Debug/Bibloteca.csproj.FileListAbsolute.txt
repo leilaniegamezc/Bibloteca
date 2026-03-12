@@ -7,3 +7,23 @@ C:\Users\miche\source\repos\Mascotas\Bibloteca\Bibloteca\obj\Debug\Bibloteca.csp
 C:\Users\miche\source\repos\Mascotas\Bibloteca\Bibloteca\obj\Debug\Bibloteca.csproj.CoreCompileInputs.cache
 C:\Users\miche\source\repos\Mascotas\Bibloteca\Bibloteca\obj\Debug\Bibloteca.exe
 C:\Users\miche\source\repos\Mascotas\Bibloteca\Bibloteca\obj\Debug\Bibloteca.pdb
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\bin\Debug\Bibloteca.exe.config
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\bin\Debug\Bibloteca.exe
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\bin\Debug\Bibloteca.pdb
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\obj\Debug\Bibloteca.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\obj\Debug\Bibloteca.exe.config
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\obj\Debug\Bibloteca.Properties.Resources.resources
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\obj\Debug\Bibloteca.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\obj\Debug\Bibloteca.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\obj\Debug\Bibloteca.exe
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\obj\Debug\Bibloteca.pdb
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\bin\Debug\Capa Presentacion.exe
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\bin\Debug\CapaDatos.exe
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\bin\Debug\CapaLibros.exe
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\bin\Debug\Capa Presentacion.pdb
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\bin\Debug\Capa Presentacion.exe.config
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\bin\Debug\CapaDatos.pdb
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\bin\Debug\CapaDatos.exe.config
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\bin\Debug\CapaLibros.pdb
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\bin\Debug\CapaLibros.exe.config
+C:\Users\DELL\Documents\Tareas\5-to Cuatrimestre\BD2\Bibloteca\Bibloteca\obj\Debug\Bibloteca.csproj.Up2Date
