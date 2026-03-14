@@ -39,6 +39,7 @@
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.NuevoBTN = new System.Windows.Forms.Button();
             this.EditarBTN = new System.Windows.Forms.Button();
+            this.EliminarBTN = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dlistado)).BeginInit();
@@ -122,7 +123,7 @@
             // 
             // NuevoBTN
             // 
-            this.NuevoBTN.Location = new System.Drawing.Point(632, 343);
+            this.NuevoBTN.Location = new System.Drawing.Point(551, 343);
             this.NuevoBTN.Name = "NuevoBTN";
             this.NuevoBTN.Size = new System.Drawing.Size(75, 23);
             this.NuevoBTN.TabIndex = 8;
@@ -132,7 +133,7 @@
             // 
             // EditarBTN
             // 
-            this.EditarBTN.Location = new System.Drawing.Point(713, 343);
+            this.EditarBTN.Location = new System.Drawing.Point(632, 343);
             this.EditarBTN.Name = "EditarBTN";
             this.EditarBTN.Size = new System.Drawing.Size(75, 23);
             this.EditarBTN.TabIndex = 9;
@@ -140,11 +141,22 @@
             this.EditarBTN.UseVisualStyleBackColor = true;
             this.EditarBTN.Click += new System.EventHandler(this.EditarBTN_Click);
             // 
+            // EliminarBTN
+            // 
+            this.EliminarBTN.Location = new System.Drawing.Point(713, 343);
+            this.EliminarBTN.Name = "EliminarBTN";
+            this.EliminarBTN.Size = new System.Drawing.Size(75, 23);
+            this.EliminarBTN.TabIndex = 10;
+            this.EliminarBTN.Text = "&Eliminar";
+            this.EliminarBTN.UseVisualStyleBackColor = true;
+            this.EliminarBTN.Click += new System.EventHandler(this.EliminarBTN_Click);
+            // 
             // FormListarLibros
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.EliminarBTN);
             this.Controls.Add(this.EditarBTN);
             this.Controls.Add(this.NuevoBTN);
             this.Controls.Add(this.panel1);
@@ -176,6 +188,7 @@
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Button NuevoBTN;
         private System.Windows.Forms.Button EditarBTN;
+        private System.Windows.Forms.Button EliminarBTN;
     }
 }
 

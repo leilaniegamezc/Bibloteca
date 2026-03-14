@@ -16,6 +16,7 @@ namespace CapaPresentacion
             Top = Left = 0;
             Mostrar();
         }
+
         /// <summary>
         /// Metodo para mostrar los registros en el <see cref="DataGridView"/>
         /// </summary>
@@ -25,7 +26,6 @@ namespace CapaPresentacion
         /// Metodo para buscar clientes por nombre
         /// </summary>
         public void BuscarNombre() => dlistado.DataSource = CLLibro.BuscarNombre(NombreTXT.Text);
-
         
         private void BuscarClick(object sender, EventArgs e)
         {
@@ -67,6 +67,37 @@ namespace CapaPresentacion
 
             form.Show();
             Hide();
+        }
+
+        private void EliminarBTN_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                DialogResult opcion = MessageBox.Show("Realmente desea eliminar el(los) registro(s)?",
+                    "Sistema de Ventas",
+                    MessageBoxButtons.OKCancel,
+                    MessageBoxIcon.Question);
+                if (dlistado.SelectedRows.Count > 0)
+                {
+                    if (opcion == DialogResult.OK)
+                    {
+                        string idcliente = dlistado.CurrentRow.Cells["idLibro"].Value.ToString();
+                        CLLibro.Eliminar(Convert.ToInt32(idcliente));
+
+                        MessageBox.Show("Registro eliminado",
+                            "Sistema de Ventas",
+                            MessageBoxButtons.OK,
+                            MessageBoxIcon.Information);
+
+                        Mostrar();
+                    }
+                }
+                Mostrar();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error: {ex.Message}; \n\tStack: {ex.StackTrace}");
+            }
         }
     }
 }
